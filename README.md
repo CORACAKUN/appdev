@@ -52,6 +52,12 @@ Password: Bret
 
 👥 Team Member Contributions
 
+| Member Name      | Contributions                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------|
+| Mark Robert Tan  | Setup VS Code, Dependencies and project folders, Github                                    |
+| Ruzhell Gimena   | Font-End Design, Code Login Page, Register Page, Vercel                                    |
+| Jhon Paul Corong | Code Admin Dashboard (Posts, Users, Chart, User Profile, Posts Details                     |
+| Ramon Carl Conda | Setup JSON Placeholder, Code Regular Users Posts, BG-animation, polymorhism Design, Headers|
 
 🌍 Deployed URL
 

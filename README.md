@@ -62,5 +62,6 @@ Password: Bret
 🌍 Deployed URL
 
 You can access the live project here:  
-🔗 [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
+🔗 https://appdev-one.vercel.app/
+
 
